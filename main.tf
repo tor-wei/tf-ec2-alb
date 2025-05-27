@@ -1,5 +1,5 @@
 locals {
-  name_prefix = "" # provide your name prefix
+  name_prefix = "torwei" # provide your name prefix
 }
 
 module "web_app" {
